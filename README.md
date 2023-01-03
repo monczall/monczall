@@ -7,7 +7,7 @@ I'm currently studying at the University of Rzeszów. I really enjoy learning ne
 * 🖥️ HTML, CSS, PHP, JavaScript, Bootstrap, Adobe XD
 * 🗃️ MySQL, Oracle Database, Firebase
 * 💻 Java
-* 📱  Kotlin
+* 📱  Flutter, Kotlin
 * 🏢 GitHub, Jira, Microsoft Office
 
 ### Interests
